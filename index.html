@@ -5,10 +5,12 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
+        <a style="font-size: 12pt" href="{{ site.baseurl }}{{ post.url }}#disqus_thread"></a><!-- ew inline style -->
       </a>
     </h1>
 
@@ -35,4 +37,6 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<script id="dsq-count-scr" src="//bramadamsblog.disqus.com/count.js" async></script> <!--Add disqus count to post -->
 
