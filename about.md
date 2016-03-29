@@ -8,7 +8,7 @@ Hi, I'm Bram. Currently, I'm a Compuer Science student studying at the Universit
 
 I plan to use this space to mainly discuss my intrests in technology, but I'd love to be able to explore other fields as well. :)
 
-
 I intend to come at this with an approach of 3 parts learning, and 1 part comedic relief.
 
+[LinkedIn](https://www.linkedin.com/in/brammadams), [GitHub](https://github.com/bramses)
 
