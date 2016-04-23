@@ -4,6 +4,8 @@ title: Self-Driving Cars are so Lit
 comments: False
 ---
 
+**This will be a multi-part article; first up: safety**
+
 If you haven't been following the news on self-driving cars lately, let me encourage you to do so. Why? Because self-driving cars are __lit__. 
 
 Self-driving cars are a technology that will literally change the face of modern transportation. The transition from cars driven by humans to cars driven by _themselves_ is a change as earth-shaking as the impetus of the Internet. 
