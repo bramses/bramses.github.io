@@ -4,8 +4,6 @@ title: Self-Driving Cars are so Lit
 comments: False
 ---
 
-**This will be a multi-part article; first up: safety**
-
 If you haven't been following the news on self-driving cars lately, let me encourage you to do so. Why? Because self-driving cars are __lit__. 
 
 Self-driving cars are a technology that will literally change the face of modern transportation. The transition from cars driven by humans to cars driven by _themselves_ is a change as earth-shaking as the impetus of the Internet. 
@@ -23,3 +21,5 @@ Another safety issue is control, or lack thereof. Control is a [deep need](http:
 When we are in a plane, we are comfortable. This is because the locus of control is completely external. I know I sure as hell don't know how to fly a plane, I just assume that the pilot does. But yet, I have a sense that _someone_ is in control, and I feel safe. Many have made analogies between autopilot and autonomous vehicles. I don't believe there is an exact comparison, but I do believe that there are similarities. Autopilot is a quite a large step below the total control self-driving cars of the future have. Autopilot isn't in charge, and serves more as a directional assistant than an actual pilot. Despite the difference in scope, the end result is the same. Autopilot drastically increased the safety of commercial flights for passengers. Self-driving cars will drastically increase the safety of daily driving. The locus of control moves outward, as it did with the pilots (again, not to the same extent), lives are __literally__ saved. 
 
 The numbers vary, but self-driving cars are estimated to save on the order of [16,000 to 31,000 lives per year](http://ti.org/antiplanner/?p=9706). By redefining control behind the wheel, we can stop a lot of unnecessary death. 
+
+Self driving cars are a technology I'm ready to embrace, and hopefully they'll make the roads a safer place.
