@@ -69,7 +69,7 @@ Journaling is a great way to establish discipline. It becomes something you do e
 
 ### A Friend
 
-This one is a bit more subjective because it depends on how you use your journal. Basically, a journal is a fantastic space to talk to yourself about __whatever__ you want. It doesn't have to make sense, or be grammatically correct, all that matters is that it makes sense to you. A journal is a listening companion, it will never talk back to you, or try to give you advice, or complain. It's simply a space for you to project.
+This one is a bit more subjective because it depends on how you use your journal. Basically, a journal is a fantastic space to talk to yourself about __whatever__ you want. It doesn't have to make sense, or be grammatically correct, all that matters is that it makes sense to you. A journal is a listening companion, it will never talk back to you, or try to give you advice, or complain. It's simply a space for you to project. Writing about [stressful events](https://link.springer.com/article/10.1207/S15324796ABM2403_10) in a productive manner has been proven to help overcome these events
 
 ### Writing
 
@@ -77,4 +77,4 @@ I'll be honest. I hate the idea of writing with pen and paper. It feels like hom
 
 ## Personal Experience
 
-In the past month that I've been journaling, it's proven itself to be an invaluable tool. I've received clarity on my relationships with others and myself, I've been able to see how I'm progressing towards my own goals, and I'm capturing so much every day in between. People always ask you "Where do you see yourself in 5 years?", and I'll be excited to respond, "I'm not sure, but I'll bet my journal knows."
+In the past month that I've been journaling, it's proven itself to be an invaluable tool. I've received clarity on my relationships with others and myself, I've been able to see how I'm progressing towards my own goals, and I'm capturing so much every day in between. I'll say it's important to have a methodology while journaling, and I recommend the bullet journal. The index and monthly logs have proven very helpful. People always ask you "Where do you see yourself in 5 years?", and I'll be excited to respond, "I'm not sure, but I'll bet my journal knows."
